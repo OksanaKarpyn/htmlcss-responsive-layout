@@ -59,9 +59,14 @@ img{
    color: #0084FD ;
    font-weight: 900;
 }
-
+.title-color-white{
+   color: #fff;
+}
 .text-center{
    text-align: center;
+}
+text{
+   line-height: 30px;
 }
 
 /* header navbar */
@@ -90,7 +95,7 @@ img{
 }
 /* header-application */
 
-.header-section-application {
+.section-application {
    margin: 40px 0;
 }
 
